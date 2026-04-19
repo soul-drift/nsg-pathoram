@@ -1,7 +1,0 @@
-include pynsg/README.md
-include LICENSE
-include pyproject.toml
-include include/efanna2e/*.h
-include src/*.cpp
-recursive-include pynsg *.py *.cpp
-prune pynsg/tests
